@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @georghaehn
-- 👀 I’m interested in  statistical analyses for ecosystem functioning
-- 🌱 I’m currently learning R, Shiny
+- 👀 I’m interested in  statistical analyses for ecosystem functioning and niche competition
 - 📫 How to reach me: georg.haehn@idiv.de
 
 <!---
